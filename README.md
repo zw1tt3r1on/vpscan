@@ -18,6 +18,7 @@ vpscan.py -l sample_list.txt
 [NOT VULNERABLE] domain2.com
 [NOT VULNERABLE] domain3.com
 [VULNERABLE] domain4.com
+```
 
 ### Support my projects 
 ![](https://github.com/zw1tt3r1on/RDRD/assets/64955404/8ebb3761-a320-4343-8f63-7e0d1a3eb964)
